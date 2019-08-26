@@ -1,0 +1,7 @@
+Game Stats
+==========
+Number of circles: 7
+Number of arrows: 7
+Total number of marks: 7
+Average number of marked circles: 1.0
+Maximum number of marks on one circle: 
